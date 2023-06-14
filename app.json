@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "expo_navigation",
+    "slug": "expo_navigation"
+  }
+}
